@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TestTest3</string>
+    <string name="API_KEY">uoo6aw4mkop9pnck6jjy</string>
+    <string name="WINNWERS_URL">https://winnersapp.club/</string>
+    <string name="facebook_app_id">675361489916819</string>
+    <string name="facebook_login_protocol_scheme">fb675361489916819</string>
+</resources>
